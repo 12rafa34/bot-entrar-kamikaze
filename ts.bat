@@ -1,0 +1,1 @@
+Explorer.exe ts3server//ts.kamikazegtarp.com.br//

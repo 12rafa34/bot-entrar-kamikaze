@@ -1,0 +1,1 @@
+Explorer.exe fivem://connect/kamikazegtarp.com.br
